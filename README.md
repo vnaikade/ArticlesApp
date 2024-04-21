@@ -10,8 +10,6 @@ This project demonstrates a Swift-based application that implements a 3-column s
 4. [Key Features](#key-features)
 5. [Caching Strategy](#caching-strategy)
 6. [Error Handling](#error-handling)
-7. [Contribution Guidelines](#contribution-guidelines)
-8. [License](#license)
 
 ## Getting Started
 To get started with this project, ensure that you have the necessary development environment set up. The project is developed using Swift and requires Xcode for iOS development.
